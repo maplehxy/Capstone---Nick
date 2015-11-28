@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Nick/Documents/Personal/NPU/Capstone/Capstone/app/build/intermediates/exploded-aar/Capstone/sdk-release/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7507b3abcb2efe1fbb8af4a082740c83242382a5">
+        <dex dex="/Users/Nick/Documents/Personal/NPU/Capstone/Capstone/app/build/intermediates/pre-dexed/debug/classes-a279ab87a5b33191ab38564a6c2a0f976ab1abcc.jar" />
+    </item>
+
+</items>

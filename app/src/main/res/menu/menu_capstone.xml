@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Capstone">
+
+
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="200"
+        android:title="Search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:onClick="search"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="Share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:onClick="share"/>
+
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+
+
+</menu>

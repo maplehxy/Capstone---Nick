@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Indoor Positioining</string>
+    <string name="action_settings">Settings</string>
+    <string name="floorplan_name">Floorplan</string>
+</resources>
